@@ -11,13 +11,14 @@ In the decompression phase, when a user uploads a compressed file, it is saved i
 ![image](https://github.com/mirfan723/dsa/assets/113796548/6d250a8b-daee-4850-929c-69bbbb84183f)
 # File Compression and Decompression Examples
 ## Compressed File:
-![image](https://github.com/mirfan723/dsa/assets/113796548/27073608-89fe-4e0b-bc09-ec4a4f969814)
-![image](https://github.com/mirfan723/dsa/assets/113796548/db30fb67-dbf2-46c3-bd41-c97e3561615f)
+![image](https://github.com/mirfan723/dsa/assets/113796548/f4139816-5064-4e17-bda0-60efed162277)
+![image](https://github.com/mirfan723/dsa/assets/113796548/d985d74f-0ede-4677-ad29-542a34cd1ae5)
 ### After Compression
-![image](https://github.com/mirfan723/dsa/assets/113796548/906b2ab6-4e40-423b-ba3f-4f4192cd8f81)
+![image](https://github.com/mirfan723/dsa/assets/113796548/28439e82-2b82-4811-b3ba-40f10248aadc)
 ## Decompressed File:
-![image](https://github.com/mirfan723/dsa/assets/113796548/e4216fbd-ed05-4710-98c8-fd7a71d9587d)
-![image](https://github.com/mirfan723/dsa/assets/113796548/101cb732-8684-456a-bf00-8fbeb0a651b7)
+![image](https://github.com/mirfan723/dsa/assets/113796548/5c2eca11-9a30-4e07-a87e-4f48b8b2c51b)
+![image](https://github.com/mirfan723/dsa/assets/113796548/d9b693b4-1163-4835-ba35-50a6093f9eb1)
+
 
 
 
