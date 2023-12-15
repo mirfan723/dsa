@@ -15,5 +15,9 @@ In the decompression phase, when a user uploads a compressed file, it is saved i
 ![image](https://github.com/mirfan723/dsa/assets/113796548/db30fb67-dbf2-46c3-bd41-c97e3561615f)
 ### After Compression
 ![image](https://github.com/mirfan723/dsa/assets/113796548/906b2ab6-4e40-423b-ba3f-4f4192cd8f81)
+## Decompressed File:
+![image](https://github.com/mirfan723/dsa/assets/113796548/e4216fbd-ed05-4710-98c8-fd7a71d9587d)
+![image](https://github.com/mirfan723/dsa/assets/113796548/101cb732-8684-456a-bf00-8fbeb0a651b7)
+
 
 
