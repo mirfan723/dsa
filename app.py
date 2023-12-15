@@ -1,4 +1,4 @@
-#import necessary module and libr
+#import necessary module and library
 from flask import Flask,render_template,request,send_file,redirect
 import os,glob,compression,shutil
 
